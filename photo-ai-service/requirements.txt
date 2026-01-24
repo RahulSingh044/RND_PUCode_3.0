@@ -1,0 +1,15 @@
+# Core
+numpy==1.26.4
+opencv-python==4.9.0.80
+
+# Face recognition (ArcFace + RetinaFace)
+insightface==0.7.3
+onnxruntime==1.17.3
+
+# API
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# Utilities
+requests==2.31.0
+pydantic==2.6.4
