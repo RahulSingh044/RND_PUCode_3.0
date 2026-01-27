@@ -1,0 +1,34 @@
+{
+  "venue_X": {
+    "avgIncidentScore": 0.104,
+    "eventCount": 2,
+    "issueCounts": {
+      "security": 2,
+      "crowd": 2,
+      "entry": 1
+    },
+    "riskLevel": "low",
+    "commonIssues": [
+      "security",
+      "crowd",
+      "entry"
+    ],
+    "lastUpdatedBy": "event_incident",
+    "lastEventScore": 0.126
+  },
+  "venue_Y": {
+    "avgIncidentScore": 0.007,
+    "eventCount": 1,
+    "issueCounts": {
+      "entry": 1,
+      "security": 1
+    },
+    "riskLevel": "low",
+    "commonIssues": [
+      "entry",
+      "security"
+    ],
+    "lastUpdatedBy": "event_incident",
+    "lastEventScore": 0.007
+  }
+}
